@@ -1,7 +1,8 @@
 # 3-7
 
-Hello qa.guru!
+Hello qa.guru!<br>
+git add -A<br>
+git commit -m "added some git commands"<br>
+git push<br><br>
 
-git add -A
-git commit -m "added some git commands"
-git push
+added new line tag
