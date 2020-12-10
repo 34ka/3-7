@@ -7,5 +7,5 @@ git push<br><br>
 
 added new line tag
 
-//join other branch<br>
+// join other branch<br>
 git checkout -b add_new_file
